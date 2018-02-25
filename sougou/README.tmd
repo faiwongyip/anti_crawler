@@ -1,6 +1,6 @@
 
-1.搜狗搜索关键词，限定公众号，时间段推送的微信文章，保存为csv格式，文件夹在项目的data文件夹，延时1秒！
+1. 搜狗搜索关键词，限定公众号，时间段推送的微信文章，保存为csv格式，文件夹在项目的data文件夹，延时1秒！
 
-2.启动方式，双击start.bat，限定时间修改start.bat文件的ft和et。
+2. 启动方式，双击start.bat，限定时间修改start.bat文件的ft和et。
 
-3.限定关键词，修改user_id.txt文件，一行三个字段（名字，userId，wxid），用空格隔开。查询wxin带上userId访问url：http://weixin.sogou.com/weixin?zhnss=1&type=1&ie=utf8&query=《userId》
+3. 限定关键词，修改user_id.txt文件，一行三个字段（名字，userId，wxid），用空格隔开。查询wxin带上userId访问url：http://weixin.sogou.com/weixin?zhnss=1&type=1&ie=utf8&query=《userId》
